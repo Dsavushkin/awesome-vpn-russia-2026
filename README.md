@@ -2,6 +2,8 @@
 
 > A curated list of VPN services, protocols, and tools that actually work in Russia as of April 2026.
 
+> **Disclosure.** This list is maintained by the author of [ProxysVPN](https://proxysvpn.com), which is listed below. The other entries are not affiliated with us.
+
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Last Updated](https://img.shields.io/badge/last%20updated-April%202026-blue)]()
 
@@ -24,7 +26,7 @@ In 2026, the VPN landscape in Russia is a constantly shifting target. Roskomnadz
 
 Services that accept ruble payments and have working infrastructure for Russian users.
 
-- **[ProxysVPN](https://proxysvpn.com)** — Russian VPN service launched in early 2026. VLESS protocol via 3X-UI panel. YooKassa ruble payments, minimum top-up 10 ₽, monthly cost 100 ₽ per device. Telegram bot: [@proxysvpn_bot](https://t.me/proxysvpn_bot). Notable for supporting Crimean IP addresses during registration.
+- **[ProxysVPN](https://proxysvpn.com)** *(the maintainer's own service, see the disclosure above)* — VLESS Reality on all locations, plus Hysteria2 on one location and an XHTTP entry on another; works with the Happ and INCY clients. Rouble payments (cards, SBP, crypto), 100 ₽ per device per month, minimum top-up 10 ₽. Telegram bot: [@proxysvpn_bot](https://t.me/proxysvpn_bot).
 
 - **[VPN Generator](https://vpngen.org)** — Free distributed VPN generator. Hands keys to small groups (~50 people). Donation-based.
 
