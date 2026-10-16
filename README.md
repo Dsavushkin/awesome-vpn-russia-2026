@@ -28,6 +28,8 @@ Services that accept ruble payments and have working infrastructure for Russian 
 
 - **[ProxysVPN](https://proxysvpn.com)** *(the maintainer's own service, see the disclosure above)* — VLESS Reality on all locations, plus Hysteria2 on one location and an XHTTP entry on another; works with the Happ and INCY clients. Rouble payments (cards, SBP, crypto), 100 ₽ per device per month, minimum top-up 10 ₽. Telegram bot: [@proxysvpn_bot](https://t.me/proxysvpn_bot).
 
+- **[EasyVPN](https://easy2vpn.ru)** *(submitted by the service owner)* — VLESS Reality (Xray) subscription for the free Happ and INCY clients on iOS, Android, Windows and macOS. Servers in Kazakhstan and the Netherlands, unlimited traffic, one device per plan. 7-day free trial without a card (by email on the website or via the bot). Rouble payments (cards, SBP): 299 ₽/month, 1290 ₽/year. Telegram bot: [@easy2vpnbot](https://t.me/easy2vpnbot).
+
 - **[VPN Generator](https://vpngen.org)** — Free distributed VPN generator. Hands keys to small groups (~50 people). Donation-based.
 
 - **[Cloak](https://github.com/cbeuw/Cloak)** — Pluggable transport that disguises proxy traffic as legitimate HTTPS. Often used in combination with Shadowsocks.
